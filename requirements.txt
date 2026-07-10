@@ -1,0 +1,3 @@
+#requirments
+streamlit
+openai
